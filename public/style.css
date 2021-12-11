@@ -1,0 +1,44 @@
+.container {
+    padding: 20px;
+}
+
+* {
+    text-align: left;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+html {
+    background: #000000;
+}
+
+#nama-judul {
+    padding-top: 30px;
+    color: #cff09e;
+}
+
+#judul {
+    color: #cff09e;
+}
+
+.gambar {
+    width: 100px;
+    height: 100px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+
+.logo-iot {
+    display: flex;
+    justify-content: left;
+}
+
+.navbar {
+    margin-top: 50px;
+    margin-right: 10px;
+}
+
+table {
+    background-color: #4B0082;
+    margin-left: 0;
+}
